@@ -24,3 +24,8 @@ B = float(input())
 media = (3.5*A + 7.5*B) / 11
 
 print(f'MEDIA = {media:.5f}')
+
+#     git add . "adiciona as alterações para subir para a nuvem"
+#     git commit -m "adiciona uma descrição"
+#     git push -u origin Projeto-Facul "subir repositório novo para nuvem"
+#     git push "subir o repositorio para o github"
