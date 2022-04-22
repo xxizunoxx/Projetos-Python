@@ -10,3 +10,6 @@ elif 75 < ponto <= 100:
     print('Intervalo (75,100]')
 else:
     print('Fora de intervalo')
+
+
+novo testo
